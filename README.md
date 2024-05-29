@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angrydumbledore" alt="angrydumbledore" /></a> </p>
 
-- 🌱 I’m and expert of **HTML, Javascript, CSS, Reactjs**
+- 🌱 I’m an expert of **HTML, Javascript, CSS, Reactjs**
 
 - 💬 Ask me about **HTML, Javascript, CSS, Reactjs**
 
