@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Super FrontEnd and Mobile Developer. AngryDumbledore</h1>
+<h1 align="center">Hi 👋, I'm Super BlockChain and Mobile Developer. AngryDumbledore</h1>
 <h3 align="center">I am a super fan of Harry Potter. Especially Dumbledore is my hero. Whatever I get from customers or companies, I wanna make it with my magic spell. Then the project will be perfect and fantastic. I am a Super Mobile Developer with Android or Flutter , React Native. So whenever you need me call me and hire me.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angrydumbledore&label=Profile%20views&color=0e75b6&style=flat" alt="angrydumbledore" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angrydumbledore&theme=" alt="angrydumbledore" /></a> </p>
 
 - 🌱 I’m currently learning **Rust, Next, Go, BlockChain**
-- 💬 Ask me about **React, Flutter, HTML, JavaScript, CSS**
+- 💬 Ask me about **React, Flutter, HTML, JavaScript, CSS, BlockChain**
 
 - ⚡ Fun fact **I think I am really funny. I really love to watch animations, and I love all characters of them.**
 
