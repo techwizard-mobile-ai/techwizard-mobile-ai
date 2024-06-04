@@ -14,7 +14,7 @@
 
 ###
 
-<h2>I am a super fan of Harry Potter. Especially Dumbledore is my hero. Whatever I get from customers or companies, I wanna make it with my magic spell. Then the project will be perfect and fantastic. I am a Super Mobile Developer with Android or Flutter , React Native. So whenever you need me call me and hire me.</h2>
+<h2 align="center">I am a super fan of Harry Potter. Especially Dumbledore is my hero. Whatever I get from customers or companies, I wanna make it with my magic spell. Then the project will be perfect and fantastic. I am a Super Mobile Developer with Android or Flutter , React Native. So whenever you need me call me and hire me.</h2>
 
 ###
 
