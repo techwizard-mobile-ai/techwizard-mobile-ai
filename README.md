@@ -336,8 +336,6 @@
 <br />
 
 ### Mobile application
-<img align="right" height="300" src="https://github.com/AngryDumbledore/myavatars/blob/main/2.jpg"  />
-
 ###
 
 <div align="center">
