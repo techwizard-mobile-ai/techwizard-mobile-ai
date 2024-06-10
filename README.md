@@ -52,16 +52,11 @@
 
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
-<img align="right" alt="GIF" src="images.jfif" width="400" />
+<img align="right" height="300" src="https://github.com/AngryDumbledore/myavatars/blob/main/2.jpg"  />
  
 ### WEB & DAPP
-<br />
-
 ### NFT GAME & Smart Contract
-<br />
-
 ### Crypto Trading Platforms & Bots
-<br />
 
 ### Mobile application
 
