@@ -11,7 +11,10 @@
 </h1>
 <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
   <p>
- A skilled Full Stack Developer with 7 years of professional experience looking to contribute knowledge in web and blockchain technology. Proficient at performing well as working in a group or independently in a fast-paced setting. Deep understanding of distributed ledger, blockchain safety, blockchain design principles, and various blockchain protocols and environments. Leaded successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency Stack to improve Web3.0 system performance which is the focus and the future of our life, so for now implemented DAO, DEX, DApp, NFT Marketplaces by using web3 and Solidity. Especially, got great success in NFT Game developemnt.
+ I am a seasoned Blockchain and Full Stack Developer with over 7 years of experience in designing, developing, and implementing cutting-edge blockchain solutions and full-stack applications. My passion for technology and innovation drives me to continuously explore new possibilities and deliver exceptional results in every project I undertake. With a strong foundation in computer science and extensive hands-on experience, I excel in creating robust, scalable, and secure applications that meet the evolving needs of the digital age.
+</p>
+<p>
+  I am a super fan of Harry Potter. Especially Dumbledore is my hero. Whatever I get from customers or companies, I wanna make it with my magic spell. Then the project will be perfect and fantastic. I am also a Super Mobile Developer with Android or Flutter , React Native. So whenever you need me call me and hire me.
 </p>
 <h1 align="center"></h1>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
@@ -75,7 +78,7 @@
 
 ###
 
-<h2 align="center">I am a super fan of Harry Potter. Especially Dumbledore is my hero. Whatever I get from customers or companies, I wanna make it with my magic spell. Then the project will be perfect and fantastic. I am a Super Mobile Developer with Android or Flutter , React Native. So whenever you need me call me and hire me.</h2>
+<h2 align="center"></h2>
 
 ###
 
