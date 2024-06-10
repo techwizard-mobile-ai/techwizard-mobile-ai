@@ -327,10 +327,13 @@
 <img align="right" height="300" src="https://github.com/AngryDumbledore/myavatars/blob/main/2.jpg"  />
  
 ### WEB & DAPP
+<br/>
 ### NFT GAME & Smart Contract
+<br/>
 ### Crypto Trading Platforms & Bots
-
+<br/>
 ### Mobile application
+<br/>
 
 
 ###
