@@ -280,7 +280,7 @@
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"
       height="30"
-      alt="rust logo"
+      alt="rust"
     />
   </td>
   <td>
