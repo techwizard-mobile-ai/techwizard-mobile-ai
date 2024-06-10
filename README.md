@@ -327,25 +327,15 @@
 <img align="right" height="300" src="https://github.com/AngryDumbledore/myavatars/blob/main/2.jpg"  />
  
 ### WEB & DAPP
-<br>
+<br />
+
 ### NFT GAME & Smart Contract
-<br>
+<br />
+
 ### Crypto Trading Platforms & Bots
-<br/>
+<br />
+
 ### Mobile application
-<br>
-
-
-###
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=angrydumbledore&label=Profile%20views&color=0e75b6&style=flat" alt="angrydumbledore" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angrydumbledore&theme=" alt="angrydumbledore" /></a> </p>
-
-###
-
-###
-
 <img align="right" height="300" src="https://github.com/AngryDumbledore/myavatars/blob/main/2.jpg"  />
 
 ###
