@@ -19,38 +19,307 @@
 <h1 align="center"></h1>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
 <table>
-  <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-24-1174950.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/github-170-1175028.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/java-59-1174952.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/cakephp-3-1175050.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/html5-2474805-2056091.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/sass-13-1175092.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/webpack-1-1174980.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/visualstudio-1-1174964.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/django-11-1175036.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="100"></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/asp-3-226071.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/symfony-3-1174988.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/swift-18-1174990.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/rubymine-1175004.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/ionic-4-1175016.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/pycharm-1175008.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/gradle-2-1174969.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/go-76-1175027.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-57-1175191.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/electron-67-1175035.png" width="100"></td>
-  </tr>
+ <tr>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+      height="30"
+      alt="javascript logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+      height="30"
+      alt="typescript logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+      height="30"
+      alt="react logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+      height="30"
+      alt="html5 logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+      height="30"
+      alt="css3 logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+      height="30"
+      alt="python logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+      height="30"
+      alt="csharp logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"
+      height="30"
+      alt="anaconda logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"
+      height="30"
+      alt="android logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
+      height="30"
+      alt="androidstudio logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+      height="30"
+      alt="angularjs logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"
+      height="30"
+      alt="apache logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+      height="30"
+      alt="bootstrap logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"
+      height="30"
+      alt="dart logo"
+    />
+  </td>
+</tr>
+<tr>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
+      height="30"
+      alt="django logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"
+      height="30"
+      alt="dot-net logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
+      height="30"
+      alt="dotnetcore logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"
+      height="30"
+      alt="electron logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+      height="30"
+      alt="figma logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
+      height="30"
+      alt="flutter logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+      height="30"
+      alt="github logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+      height="30"
+      alt="git logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
+      height="30"
+      alt="go logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
+      height="30"
+      alt="intellij logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
+      height="30"
+      alt="kotlin logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+      height="30"
+      alt="materialui logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg"
+      height="30"
+      alt="moodle logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+      height="30"
+      alt="mongodb logo"
+    />
+  </td>
+</tr>
+<tr>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg"
+      height="30"
+      alt="msdos logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+      height="30"
+      alt="mysql logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+      height="30"
+      alt="nodejs logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+      height="30"
+      alt="npm logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"
+      height="30"
+      alt="opencv logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg"
+      height="30"
+      alt="phpstorm logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+      height="30"
+      alt="redux logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
+      height="30"
+      alt="redis logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"
+      height="30"
+      alt="rust logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"
+      height="30"
+      alt="socketio logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"
+      height="30"
+      alt="swift logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+      height="30"
+      alt="vscode logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+      height="30"
+      alt="vuejs logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg"
+      height="30"
+      alt="webstorm logo"
+    />
+  </td>
+</tr>
+
 </table>
 
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
