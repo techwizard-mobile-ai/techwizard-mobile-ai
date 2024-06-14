@@ -1,7 +1,3 @@
-<p align="center">
-  <img align="center" src="logo.jpg" style = "width: 100%;"/>
-</p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angrydumbledore&theme=" alt="angrydumbledore" /></a> </p>
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
