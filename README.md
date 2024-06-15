@@ -319,7 +319,7 @@
 
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
-<img align="right" height="300" src="https://github.com/AngryDumbledore/myavatars/blob/main/main.jpg"  />
+<img align="right" height="300" src="https://github.com/AngryDumbledore/myavatars/blob/main/_11ffd10e-db7f-4254-8e7f-741690c0c99f.jpg"  />
  
 ### WEB & DAPP
 <br />
