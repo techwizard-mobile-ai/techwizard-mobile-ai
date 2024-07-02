@@ -17,10 +17,11 @@
   <a href="https://github.com/dev51312117411"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;BlockChain%20Developer;Full%20Stack%20Developer;Penetration+tester;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-<div align="left">
-### 👨🏽‍💻 &nbsp;About Me
 
-<img align="right" alt="Coding" width="400" src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/coding.gif?raw=true">
+<div align="left">
+<h1> 👨🏽‍💻 &nbsp;About Me</h1>
+
+<img align="right" alt="Coding" width="400" src="https://github.com/dev51312117411/myavatars/blob/main/coding.gif?raw=true">
 
 <p>
  I am a seasoned Blockchain and Full Stack Developer with over 7 years of experience in designing, developing, and implementing cutting-edge blockchain solutions and full-stack applications. My passion for technology and innovation drives me to continuously explore new possibilities and deliver exceptional results in every project I undertake. With a strong foundation in computer science and extensive hands-on experience, I excel in creating robust, scalable, and secure applications that meet the evolving needs of the digital age.
@@ -48,12 +49,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/dev51312117411/myavatars/blob/main/divider2.png" alt="divider"/>
 </div> 
 <h3 align="center">
- <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/> 
+ <img src="https://github.com/dev51312117411/myavatars/blob/main/code.gif" height="20"/> 
  Tech & Tools
- <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
+ <img src="https://github.com/dev51312117411/myavatars/blob/main/code.gif" height="20"/>
 </h3>
 <div align="center" style="witdh:100%"> 
  <table>
