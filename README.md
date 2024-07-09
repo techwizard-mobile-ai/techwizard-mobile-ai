@@ -24,10 +24,10 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/dev51312117411/myavatars/blob/main/coding.gif?raw=true">
 
 <p>
- I am a seasoned Blockchain and Full Stack Developer with over 7 years of experience in designing, developing, and implementing cutting-edge blockchain solutions and full-stack applications. My passion for technology and innovation drives me to continuously explore new possibilities and deliver exceptional results in every project I undertake. With a strong foundation in computer science and extensive hands-on experience, I excel in creating robust, scalable, and secure applications that meet the evolving needs of the digital age.
+ I am a seasoned Blockchain and Full Stack Developer with over 6 years of experience in designing, developing, and implementing cutting-edge blockchain solutions and full-stack applications. My passion for technology and innovation drives me to continuously explore new possibilities and deliver exceptional results in every project I undertake. With a strong foundation in computer science and extensive hands-on experience, I excel in creating robust, scalable, and secure applications that meet the evolving needs of the digital age.
 </p>
 <p>
-  I am a super fan of Harry Potter. Especially Dumbledore is my hero. Whatever I get from customers or companies, I wanna make it with my magic spell. Then the project will be perfect and fantastic. I am also a Super Mobile Developer with Android or Flutter , React Native. So whenever you need me call me and hire me.
+  A blockchain developer with over six years of experience, adept at designing and implementing decentralized applications (DApps), smart contracts, and blockchain networks. Proficient in a wide range of blockchain platforms including Ethereum, Hyperledger, Binance Smart Chain, Polkadot, and Cardano, with a strong background in cryptographic algorithms, security protocols, and consensus mechanisms. Skilled in programming languages such as Solidity, JavaScript, Python, Golang, Rust, C++, Java, TypeScript, C#, Ruby, PHP, and Swift, they have successfully led multiple projects from conception to deployment. Their comprehensive expertise in decentralized finance (DeFi), supply chain management, and identity verification ensures the development of secure and efficient blockchain solutions.
 </p>
 </div>
 
