@@ -26,6 +26,11 @@
 <p>
 An innovative and dedicated Senior Mobile & AI Full-Stack Developer with over 8 years of experience in designing, developing, and deploying state-of-the-art mobile applications and full-stack solutions. Adept at integrating artificial intelligence to enhance functionality and user experience. Known for a creative approach to development, a passionate drive for excellence, and a meticulous attention to detail. Demonstrated ability to lead diverse development teams, manage complex projects, and consistently deliver high-quality, scalable software solutions.
 </p>
+<p>
+✅<b>Mobile Development:</b> Expertise in creating high-performance mobile applications for iOS and Android using Swift, Kotlin, Flutter, and React Native. Skilled in implementing responsive UI/UX designs that ensure seamless user experiences across devices. Proficient in using mobile development frameworks and libraries to accelerate development and enhance functionality.<br>
+✅<b>Full-Stack Development:</b> Proficient in both front-end and back-end technologies, including JavaScript frameworks (React, Angular, Vue.js), server-side programming with Node.js, Python (Django, Flask), Ruby on Rails, and database management (SQL, NoSQL, MongoDB, PostgreSQL). Experienced in RESTful API development and GraphQL for efficient data communication.<br>
+✅<b>Artificial Intelligence:</b> Skilled in developing and integrating machine learning models, deep learning networks, and natural language processing (NLP) systems using frameworks such as TensorFlow, PyTorch, and Keras. Experienced in computer vision, recommendation systems, predictive analytics, and AI-driven automation. Adept at using AI to personalize user experiences and optimize business processes.
+</p>
 </div>
 
 <div align="center">
