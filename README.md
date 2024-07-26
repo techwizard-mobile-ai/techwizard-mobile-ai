@@ -6,22 +6,22 @@
 
 <div align="center">
  
- <a href="https://github.com/dev51312117411?tab=repositories&sort=stargazers">
-  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/dev51312117411"/>
+ <a href="https://github.com/god-of-night?tab=repositories&sort=stargazers">
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/god-of-night"/>
  </a>
- <a href="https://github.com/dev51312117411?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/dev51312117411?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+ <a href="https://github.com/god-of-night?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/god-of-night?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </>
- <img src="https://komarev.com/ghpvc/?username=dev51312117411&label=Profile%20views&color=0e75b6&style=flat" height="0px" alt="dev" />
+ <img src="https://komarev.com/ghpvc/?username=god-of-night&label=Profile%20views&color=0e75b6&style=flat" height="0px" alt="dev" />
 
 <p align="center">
-  <a href="https://github.com/dev51312117411"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;BlockChain%20Developer;Full%20Stack%20Developer;Mobile%20Developer;Penetration+tester;6%2B%20years%20of%20coding%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/god-of-night"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;Mobile%20Developer;Full%20Stack%20Developer;AI%20Developer;Penetration+tester;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 
 <div align="left">
 <h1> 👨🏽‍💻 &nbsp;About Me</h1>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/dev51312117411/myavatars/blob/main/coding.gif?raw=true">
+<img align="right" alt="Coding" width="400" src="https://github.com/god-of-night/myavatars/blob/main/coding.gif?raw=true">
 
 <p>
  I am a seasoned Blockchain and Full Stack Developer with over 6 years of experience in designing, developing, and implementing cutting-edge blockchain solutions and full-stack applications. My passion for technology and innovation drives me to continuously explore new possibilities and deliver exceptional results in every project I undertake. With a strong foundation in computer science and extensive hands-on experience, I excel in creating robust, scalable, and secure applications that meet the evolving needs of the digital age.
@@ -32,29 +32,29 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/dev51312117411?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=dev51312117411&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@Goblin's trophy stats"/></a>
+<a href="https://github.com/god-of-night?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=god-of-night&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@Goblin's trophy stats"/></a>
 </div>
 
 <!-- activity graph heroku-app start -->
 <div align="center">
-    <a href="https://github.com/dev51312117411">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev51312117411&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
+    <a href="https://github.com/god-of-night">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=god-of-night&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
     </a>
 </div>
 <!-- activity graph heroku-app end -->
 
 <div align="center">
- <a href="https://github.com/dev51312117411?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=dev51312117411&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
- <a href="https://github.com/dev51312117411?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=dev51312117411&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
+ <a href="https://github.com/god-of-night?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=god-of-night&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
+ <a href="https://github.com/god-of-night?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=god-of-night&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
 </div>
 
 <div align="center">
-  <img src="https://github.com/dev51312117411/myavatars/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/god-of-night/myavatars/blob/main/divider2.png" alt="divider"/>
 </div> 
 <h3 align="center">
- <img src="https://github.com/dev51312117411/myavatars/blob/main/code.gif" height="20"/> 
+ <img src="https://github.com/god-of-night/myavatars/blob/main/code.gif" height="20"/> 
  Tech & Tools
- <img src="https://github.com/dev51312117411/myavatars/blob/main/code.gif" height="20"/>
+ <img src="https://github.com/god-of-night/myavatars/blob/main/code.gif" height="20"/>
 </h3>
 <div align="center" style="witdh:100%"> 
  <table>
