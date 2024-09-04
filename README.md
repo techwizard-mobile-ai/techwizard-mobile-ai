@@ -34,7 +34,84 @@ An innovative and dedicated Senior Mobile & AI Full-Stack Developer with over 8 
 </div>
 
 <div align="center">
-<a href="https://github.com/the-raccoondog?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=the-raccoondog&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@Goblin's trophy stats"/></a>
+
+<div align="center">
+  <img src="https://github.com/the-raccoondog/myavatars/blob/main/divider2.png" alt="divider"/>
+</div> 
+<h3 align="center">
+ <img src="https://github.com/the-raccoondog/myavatars/blob/main/code.gif" height="20"/> 
+ Tech & Tools
+ <img src="https://github.com/the-raccoondog/myavatars/blob/main/code.gif" height="20"/>
+</h3>
+<div align="center" style="witdh:100%"> 
+ <table>
+  <tr>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"
+      height="60"
+      alt="android logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"
+      height="60"
+      alt="swift logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
+      height="60"
+      alt="flutter logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
+      height="60"
+      alt="androidstudio logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+      height="60"
+      alt="react logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"
+      height="60"
+      alt="dart logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+      height="60"
+      alt="git logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+      height="60"
+      alt="github logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+      height="60"
+      alt="vscode logo"
+    />
+  </td>
+  </tr>
+ </table/>
+</div/>
 </div>
 
 <!-- activity graph heroku-app start -->
@@ -50,318 +127,6 @@ An innovative and dedicated Senior Mobile & AI Full-Stack Developer with over 8 
  <a href="https://github.com/the-raccoondog?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=the-raccoondog&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
 </div>
 
-<div align="center">
-  <img src="https://github.com/the-raccoondog/myavatars/blob/main/divider2.png" alt="divider"/>
-</div> 
-<h3 align="center">
- <img src="https://github.com/the-raccoondog/myavatars/blob/main/code.gif" height="20"/> 
- Tech & Tools
- <img src="https://github.com/the-raccoondog/myavatars/blob/main/code.gif" height="20"/>
-</h3>
-<div align="center" style="witdh:100%"> 
- <table>
-  <tr>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-      height="30"
-      alt="javascript logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-      height="30"
-      alt="typescript logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-      height="30"
-      alt="react logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-      height="30"
-      alt="html5 logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-      height="30"
-      alt="css3 logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-      height="30"
-      alt="python logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-      height="30"
-      alt="csharp logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"
-      height="30"
-      alt="anaconda logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"
-      height="30"
-      alt="android logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
-      height="30"
-      alt="androidstudio logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
-      height="30"
-      alt="angularjs logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"
-      height="30"
-      alt="apache logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-      height="30"
-      alt="bootstrap logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"
-      height="30"
-      alt="dart logo"
-    />
-  </td>
-</tr>
-<tr>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
-      height="30"
-      alt="django logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"
-      height="30"
-      alt="dot-net logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
-      height="30"
-      alt="dotnetcore logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"
-      height="30"
-      alt="electron logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-      height="30"
-      alt="figma logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
-      height="30"
-      alt="flutter logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-      height="30"
-      alt="github logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-      height="30"
-      alt="git logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
-      height="30"
-      alt="go logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
-      height="30"
-      alt="intellij logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
-      height="30"
-      alt="kotlin logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
-      height="30"
-      alt="materialui logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg"
-      height="30"
-      alt="moodle logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-      height="30"
-      alt="mongodb logo"
-    />
-  </td>
-</tr>
-<tr>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg"
-      height="30"
-      alt="msdos logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-      height="30"
-      alt="mysql logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-      height="30"
-      alt="nodejs logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
-      height="30"
-      alt="npm logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"
-      height="30"
-      alt="opencv logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg"
-      height="30"
-      alt="phpstorm logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-      height="30"
-      alt="redux logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
-      height="30"
-      alt="redis logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"
-      height="30"
-      alt="rust"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"
-      height="30"
-      alt="socketio logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"
-      height="30"
-      alt="swift logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-      height="30"
-      alt="vscode logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-      height="30"
-      alt="vuejs logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg"
-      height="30"
-      alt="webstorm logo"
-    />
-  </td>
-</tr>
- </table/>
-</div/>
  
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
